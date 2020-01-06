@@ -16,3 +16,6 @@ https://repl.it/@CharlieBandstra/Spicy-Objects-Marvel
 PLEASE DELETE THE BULLET POINTS FOR THE CHALLENGES YOU DO NOT COMPLETE!
 
 - [Books + Authors](https://github.com/C-Bandstra/books-and-authors)
+
+
+only finished half of inferno but i figured I'd submit it anyway.
